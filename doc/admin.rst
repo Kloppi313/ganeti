@@ -2108,8 +2108,8 @@ that can be useful in a Ganeti deployment. They can be downloaded from
 the project site (http://www.ganeti.org) and the repositories
 are also on the project git site (https://github.com/ganeti).
 
-NBMA tools
-++++++++++
+NBMA tools (deprecated)
++++++++++++++++++++++++
 
 The ``ganeti-nbma`` software is designed to allow instances to live on a
 separate, virtual network from the nodes, and in an environment where
